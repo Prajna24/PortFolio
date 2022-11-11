@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+html{
+    height: 100%;
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+.bg{
+    height: 99%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #DFF6FF; */
+    background-color: #D8D8D8;
+}
+.lcontainer {
+    font-family: 'Caveat', cursive;
+}
+.lcontainer #bl{
+    font-weight: bolder;
+}
+.lcontainer #t1{
+    position: absolute;
+    left: 210px;
+    margin-top: 220px;
+    font-size: 450%;
+}
+.lcontainer #t2{
+    position: absolute;
+    left: 260px;
+    margin-top: 310px;
+    font-size: 450%;
+}
+.rcontainer #t3{
+    position: absolute;
+    right: 370px;
+    top: 270px;
+    font-size: 250%;
+    letter-spacing: 1px;
+}
+.rcontainer #p1{
+    position: absolute;
+    right: 320px;
+    top: 315px;
+    letter-spacing: 1px;
+}
+.rcontainer #btn1{
+    position: absolute;
+    right: 440px;
+    top: 360px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 900,
+  'GRAD' 0,
+  'opsz' 48
+}
+.arrow{
+    text-align: center;
+}
+.arrow a{
+    position: relative;
+    top: 670px;
+}
+.section{
+    height: 90%;
+    text-align: center;
+}
+.heading1 {
+    position: relative;
+    top: 50px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+.content{
+    position: relative;
+    top: 150px;
+}
+.content p{
+    margin: 0px 500px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    line-height: 45px;
+}
+.arrow1{
+    position: relative;
+    top: 350px;
+}
+
+.section2{
+    height: 90%;
+    text-align: center;
+    background-color: #D8D8D8;
+}
+.lskill {
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+.rskill{
+    float: right;
+    position: relative;
+    top: 100px;
+    right: 300px;
+}
+.lskill ol{
+    line-height: 50px;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.rskill ol{
+    line-height: 50px;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.arrow2{
+    position: relative;
+    top: 555px;
+    right: 60px;
+}
+
+.section3 {
+    height: 90%;
+}
+.edu {
+    margin-left: 350px;
+}
+.edu .heading1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    right: 200px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+.edu .heading2{
+    position: relative;
+    top: 100px;
+}
+.edu ol{
+    line-height: 50px;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.edudetails #edt{
+    margin-right: 25px;
+    margin-left: 15px;
+}
+.edudetails #edt-year{
+    margin-left: 150px;
+}
+.edudetails #edt-year1{
+    margin-left: 83px;
+}
+.e2 {
+    margin-top: 50px;
+}
+.arrow3{
+    top: 140px;
+    margin-left: 740px;
+    position: relative;
+}
+.section4{
+    height: 20%;
+    background-color: #D8D8D8;
+    letter-spacing: 1px;
+}
+.social li{
+    display: inline-block;
+    margin: 50px 0px 0px 100px;
+    font-size: 17px;
+}
+.social ul a{
+    text-decoration: none;
+    color: black;
+}
+.social ul{
+    margin-left: 430px;
+}
+.copy{
+    position: relative;
+    margin-left: 680px;
+    top: 20px;
+}
